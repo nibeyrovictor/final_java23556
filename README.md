@@ -1,7 +1,7 @@
 
 # Trabajo practico FINAL - CAC 4ta Edición
 
-## Acerca del trabajo Final Intrgador
+## Acerca del trabajo Final Integrador
 
 • El trabajo practico utiliza la versión 9 de  tomcat configurado en el puerto 8080.
 
